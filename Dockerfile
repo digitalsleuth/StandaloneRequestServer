@@ -1,4 +1,4 @@
-FROM php:8.0-apache-bullseye
+FROM php:8.4.7-apache-bullseye
 
 # entrypoint.sh dependencies
 RUN set -ex; \
